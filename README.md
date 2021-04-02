@@ -26,7 +26,7 @@ docker build -t 'clarity' .
 To run (interactively, for illustration purposes), simply do:
 
 ```bash
-docker run  -p 5000:5000 -it 'hello'
+docker run  -p 5000:5000 -it 'clarity'
 ```
 
 Once running, you can test it with the following request:
